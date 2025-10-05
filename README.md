@@ -234,7 +234,7 @@ image.save("test.png")
 
 По запросу `Moscow Red Square, in sksartist style` получаем:
 
-<img src="/images/kremlin1.png" width="700px" />
+<img src="/images/kremlin1_.png" width="700px" />
 
 На первый взгляд неплохо. Есть куда работать, на на Красную Площадь похоже. Стиль художника сохранен (метрики качества стиля подключим позже).
 
