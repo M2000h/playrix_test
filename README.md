@@ -295,8 +295,10 @@ export INSTANCE_DIR="/workspace/dataset/kremlin"
 
 Посмотрим результат по запросу `Moscow Kremlin, in sksartist style`:
 
-<img src="/images/kremlin3.png" width="35%" />
-<img src="/images/kremlin4.png" width="35%" />
+<p float="left">
+  <img src="/images/kremlin3.png" width="40%" />
+  <img src="/images/kremlin4.png" width="40%" />
+</p>
 
 Модель выучила, как выглядит кремль, но "забыла" стиль художника, ожидаемо.
 
