@@ -10,7 +10,11 @@
 
 1. [Подготовка](#%EF%B8%8F-подготовка)
 2. [Network Storage](#-network-storage)
-3. [Обучение](#Обучение)
+3. [Загрузка модели](#-загрузка-модели)
+4. [Загрузка датасетов](#-загрузка-датасетов)
+5. [Обучение](#Обучение)
+5. [Pod](#-pod)
+5. [Процесс](#-процесс)
 
 ## ⚙️ Подготовка
 
@@ -291,8 +295,8 @@ export INSTANCE_DIR="/workspace/dataset/kremlin"
 
 Посмотрим результат по запросу `Moscow Kremlin, in sksartist style`:
 
-<img src="/images/kremlin3.png" width="40%" />
-<img src="/images/kremlin4.png" width="40%" />
+<img src="/images/kremlin3.png" width="35%" />
+<img src="/images/kremlin4.png" width="35%" />
 
 Модель выучила, как выглядит кремль, но "забыла" стиль художника, ожидаемо.
 
