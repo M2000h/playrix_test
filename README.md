@@ -374,9 +374,11 @@ export INSTANCE_DIR="/workspace/dataset/kremlin"
 
 <img src="/images/city_flux_2.png" width="700px" />
 
+(подпись вставил сам flux kontext)
+
 <img src="/images/msu_flux_2.png" width="700px" />
 
-Уже получше (подписать вставил сам flux kontext), но всё еще не дотягивает.
+Уже получше, но всё еще не дотягивает.
 Возможно, модели FLUX.1-Redux-dev и FLUX.1-IP-Adapter будут работать лучше.
 
 ### ✍️ Промптинг переобученной на стиль модели
