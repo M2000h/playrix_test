@@ -1,6 +1,7 @@
-Надо с чего-то начать... А то они догадаются... Так, Гена... Геннадий
-
 # Playrix Test Task 💚
+![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![](https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black)
 
 Алгоритм дообучения модели FLUX.1 на примере локаций Москвы в стиле [Simon Stålenhag](https://www.simonstalenhag.se/).
 
