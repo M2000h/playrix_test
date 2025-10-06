@@ -40,8 +40,8 @@
 При настройке Network Storage желательно, чтобы соблюдались все условия:
 
 1. [x] Доступна Global Networking
-2. [x] Доступна S3 Compatible
-3. [x] Доступа GPU Nvidia H100 или H200
+2. [x] Доступен S3 Compatible
+3. [x] Доступны GPU Nvidia H100 или H200
 4. [x] Объем памяти не менее 150ГБ
 
 <img src="/images/storage.png" width="700px" />
